@@ -18,7 +18,7 @@
 		<link>
 			<name>CryptoExchange.jar</name>
 			<type>1</type>
-			<locationURI>PROJECT_LOC/bin/com/github/staticv/cryptoexchange/CryptoExchange.jar</locationURI>
+			<locationURI>PARENT-1-PROJECT_LOC/CryptoExchange.jar</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
